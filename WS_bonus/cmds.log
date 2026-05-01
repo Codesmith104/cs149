@@ -1,0 +1,16 @@
+  917  mkdir BONUS
+  918  cd BONUS
+  919  ls
+  920  mkdir cs149
+  921  cd cs149
+  922  ls
+  923  git init
+  924  git remote add origin https://github.com/Codesmith104/cs149.git
+  925  git config user.name "Joel J (SCHOOL)"
+  926  git config user.email "joel.k.jacob@sjsu.edu"
+  927  mkdir WS_bonus
+  928  cd WS_bonus
+  929  git add .
+  930  wget -O out.pdf https://tinyurl.com/yy94jltt
+  931  curl -L https://tinyurl.com/yy94jltt -o out.pdf
+  932  ls -latr
