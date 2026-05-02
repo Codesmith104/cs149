@@ -1,0 +1,16 @@
+  996  make qemu
+  997  cd ~/xv6-labs-2023/user\n
+  998  open sleep.c
+  999  cd ~/xv6-labs-2023/user
+ 1000  ls
+ 1001  sleep.c
+ 1002  nano sleep.c
+ 1003  cd ~/xv6-labs-2023
+ 1004  nano Makefile
+ 1005  open Makefile
+ 1006  nano Makefile
+ 1007  cd ~/xv6-labs-2023\n
+ 1008  make clean
+ 1009  make qemu
+ 1010  ./grade-lab-util sleep
+ 1011  cd ~/xv6-labs-2023\n
